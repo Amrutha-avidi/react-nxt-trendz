@@ -1,0 +1,8 @@
+.cart-list {
+  padding-left: 0px;
+}
+
+.cart-list-con {
+  display: flex;
+  flex-direction: column;
+}
